@@ -1,0 +1,35 @@
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+food_tinder
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Build artifacts
+/vendor/
+
+# Documentation
+README.md 

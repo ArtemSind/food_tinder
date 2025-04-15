@@ -1,0 +1,31 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+food_tinder
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Environment Variables
+.env
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/ 
